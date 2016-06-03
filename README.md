@@ -1,9 +1,9 @@
 #iOS 401
 
 ##Course Specific Resources
-* [*CourseID* Assignment Repositories]()
-* [*CourseID* Canvas]()
-* [*CourseID* Prework Repository](https://github.com/codefellows/code-401-iOS-prework.git)
+* [401d6 Assignment Repositories](https://github.com/Codefellows-Seattle-iOS-401d6)
+* [401d6 Canvas](https://canvas.instructure.com/courses/1029503)
+* [Prework Repository](https://github.com/codefellows/code-401-iOS-prework.git)
 
 
 ##The main repository for the 10 week iOS 401 Course.
