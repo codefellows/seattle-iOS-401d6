@@ -117,8 +117,8 @@ Swift Project Week Projects...
 
 * Class 1: Intro to Objective-C. Classes, Setters and Getters, Looping.
 * Class 2: Foundation, Numbers and Strings, Working with Files, ARC/MRC
-* Class 3:
-* Class 4:
+* Class 3:  Memory Management & Balloons, App Distribution, Multiple Storyboards, KVO
+* Class 4:  Instruments & Stack Trace, Obj-c Runtime, Run Loops, Messaging *Nil*
 * Class 5: Professional Development Day 1
 
 ###Week 7: Location Reminders
@@ -145,9 +145,9 @@ application will utilize CoreLocation and MapKit.
 
 * Class 1: Container ViewControllers, OAuth with WebViews, NSError
 * Class 2: CocoaPods, AFNetworking, GCD
-* Class 3:  Memory Management & Balloons, App Distribution, Multiple Storyboards, KVO
-* Class 4:  Instruments & Stack Trace, Obj-c Runtime, Run Loops, Messaging *Nil*
-* Class 5:  Data Structures and Whiteboarding
+* Class 3: Early kick off for Project Week
+* Class 4: Project Week Preparation
+* Class 5: Data Structures and Whiteboarding
 
 ####Week 10: Project Week
 Instructors will pick the project Students work on for this Project Week.
