@@ -10,7 +10,7 @@ Each week's Lab will have a unique repository with a README.md with the instruct
 * Clone your fork onto your computer.
 * Make a directory named with your name.
 * **Do all of the work for the assignment in that directory.** As you work in your fork you will work in a branch that follows the naming convention `<YourName>-Class<#>`.
-* When you are ready to submit your assignment you will make a pull request from the master-branch of your GitHub fork to the master-branch of the original Assignment.
+* When you are ready to submit your assignment you will make a pull request from your new `class#` branch of your GitHub fork to the master-branch of the original Assignment.
 * Then you will copy the url of your pull request and paste it into the assignment URL on Canvas.
     * Eg: `https://github.com/Codefellows-Seattle-iOS-401/Week1-Intro-to-Swift/pull/1`
 
